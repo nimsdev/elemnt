@@ -94,7 +94,7 @@ hmtl {
 }
 
 .topsect {
-    background: url(/images/secbg1.png);
+    background: url(images/secbg1.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     width: 100%;
@@ -226,7 +226,7 @@ p.separator {
 }
 
 .sec4 {
-    background: url(/images/sec4bg.png);
+    background: url(images/sec4bg.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     color: white;
@@ -421,7 +421,7 @@ p.mainp {
 }
 
 .myslide {
-    background: url(/images/slidebg.png);
+    background: url(images/slidebg.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height: 500px;
